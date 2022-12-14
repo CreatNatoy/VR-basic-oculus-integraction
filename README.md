@@ -25,3 +25,16 @@ VR development basics with oculus integration
 ## Developer
 
 - [CreatNatoy](https://github.com/CreatNatoy)
+
+## Gameplay
+
+#### UI interaction and  In-Game Debug Console for Oculus Quest
+
+https://user-images.githubusercontent.com/76531899/207639461-ecf7c1f7-aace-4904-90fa-e8245293852c.mp4
+
+#### Distance Grabbing 
+
+https://user-images.githubusercontent.com/76531899/207640584-0bb642ef-7a64-4e22-b85a-e6f246a52fee.mp4
+
+
+
